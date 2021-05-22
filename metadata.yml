@@ -1,0 +1,10 @@
+title: Button and VS Test
+description: A test of buttons and the VS build environment
+author: TOOB
+splash:
+  file: assets/no-image.png
+icon:
+  file: assets/no-icon.png
+version: v0.0.1
+category: test
+url: https://github.com/32blit/32blit-boilerplate
